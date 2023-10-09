@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Streamlining Image Resizing with AWS S3, Lambda, and SNS: Automate and Optimize Your Workflow]
 
-- 🌱 I’m currently learning **AWS, Terraform**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at 
 
