@@ -1,4 +1,4 @@
-![logo]((https://github.com/devang07official/devang07official/blob/c99509321159ffcc49217c6e0f90539ad524d2fa/Devang%20Banner1.png))
+![logo](https://github.com/devang07official/devang07official/blob/e62230709b958d2b05d5aa49b6cb7efaf1469402/Devang%20Banner.png)
 <h1 align="center">Hi 👋, I'm Devang Parmar</h1>
 <h3 align="center">I am Self-motivated and hardworking, seeking for an opportunity to work in a challenging environment to prove my skills and utilize my knowledge & intelligence in the growth of the organization.</h3>
 
