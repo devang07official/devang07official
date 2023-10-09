@@ -1,6 +1,6 @@
 ![logo](https://github.com/devang07official/devang07official/blob/main/Devang%20Banner.png)
 <h1 align="center">Hi 👋, I'm Devang Parmar</h1>
-<h3 align="center">I am Self-motivated and hardworking, seeking for an opportunity to work in a challenging environment to prove my skills and utilize my knowledge & intelligence in the growth of the organization. I am Certified in Amazon Cloud Web-Services (AWS)</h3>
+<h3 align="center">I am Self-motivated and hardworking, seeking for an opportunity to work in a challenging environment to prove my skills and utilize my knowledge & intelligence in the growth of the organization.</h3>
 
 - 🔭 I’m currently working on [Streamlining Image Resizing with AWS S3, Lambda, and SNS: Automate and Optimize Your Workflow]
 
