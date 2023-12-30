@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on 
+- 📝 I write articles on :- <a href="https://medium.com/@devrparmar7" target="blank">Devrparmar7</a>
 
 - 📫 How to reach me **devrparmar7@gmail.com**
 
